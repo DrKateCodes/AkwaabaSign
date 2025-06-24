@@ -20,7 +20,7 @@ Visual Representation
 The hierarchical structure is illustrated in Figure 1 below, showing the base folder branching into word-specific folders, which further branch into signer-specific subfolders containing the video files.
 Base Folder (AkwaabaSign)
 ├── Word1
-│   ├── WordSigner1
+│   ├── WordS1
 │   │   ├── WordS1_0.avi
 │   │   ├── WordS1_1.avi
 │   │   ...
@@ -29,7 +29,7 @@ Base Folder (AkwaabaSign)
 │   │   ├── WordS2_0.avi
 │   │   ...
 │   ...
-│   └── WordSigner5
+│   └── WordS5
 │       ├── WordS5_0.avi
 │       ...
 │       └── WordS5_9.avi
@@ -42,7 +42,6 @@ Base Folder (AkwaabaSign)
 Usage
 
 Navigation: The structured layout facilitates efficient retrieval of specific videos, making it ideal for machine learning workflows including training, validation, and testing phases.
-Scalability: The design supports future expansions, allowing seamless integration of additional words, signers, or variations while maintaining the same organizational logic.
 
 ![alt text](folderStructure.png)
 
