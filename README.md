@@ -39,7 +39,7 @@ Base Folder (AkwaabaSign)
 ├── Word115
     ...
 
-![alt text](folderStructure.png)
+
 
 
 Usage
