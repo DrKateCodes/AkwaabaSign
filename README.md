@@ -39,11 +39,12 @@ Base Folder (AkwaabaSign)
 ├── Word115
     ...
 
+![alt text](folderStructure.png)
+
+
 Usage
 
 Navigation: The structured layout facilitates efficient retrieval of specific videos, making it ideal for machine learning workflows including training, validation, and testing phases.
-
-![alt text](folderStructure.png)
 
 Accessing the Dataset
 
